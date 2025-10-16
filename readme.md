@@ -22,7 +22,7 @@ This code requires the following packages (listed in requirements.txt):
 - matplotlib
 - ipympl
 
-If using anaconda (recommended) you can install these packages by typing:
+You can install these packages by typing:
 `pip install -r requirements.txt'
 
 Agents and environments are implemented in a way that is consistent with gynasium RL environments, but do not depend on the gymnasium package.
